@@ -1,0 +1,14 @@
+{
+  "name": "29_07_pw_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Oleksandr Khotemskyi <xotabu4@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "1.36.2"
+  }
+}
